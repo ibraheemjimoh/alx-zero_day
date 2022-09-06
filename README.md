@@ -1,2 +1,1 @@
-My first readme
-This is only time allow to do so
+My first day as developer
